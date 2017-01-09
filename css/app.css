@@ -1,0 +1,14 @@
+/* shared */
+#top-bar {
+    background-color: #ffd8dd;
+}
+
+#top-bar, #content {
+    margin-bottom: 30px;
+}
+
+/* index.html */
+.profile-elem {
+    margin-bottom: 10px;
+    color: #555555;
+}
