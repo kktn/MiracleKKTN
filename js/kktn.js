@@ -3,7 +3,7 @@ function writeHeader() {
     '<div class="top-bar">' +
     '<div class="top-bar-left">'+
     '<ul class="menu">' +
-    '<li class="menu-text">みらくる☆けこたん どっとこむ</li>' +
+    /*'<li class="menu-text">みらくる☆けこたん どっとこむ</li>' +*/
     '<li><a href="index.html">KKTN</a></li>' +
     '<li><a href="works.html">WORKS</a></li>' +
     '<li><a href="contact.html">CONTACT</a></li>' +
